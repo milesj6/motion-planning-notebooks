@@ -1,0 +1,1 @@
+This repo contains a series of jupyter notebooks that explore robot motion planning.
